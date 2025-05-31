@@ -61,7 +61,5 @@
 ---
 
 <div align="center">
- 
-  <img src="https://profile-counter.glitch.me/khatrisahil1/count.svg?"  />
- 
+  <img src="https://profile-counter.glitch.me/khatrisahil1/count.svg?"  /> 
 </div>
