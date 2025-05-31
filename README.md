@@ -2,22 +2,16 @@
 <h3 align="center">🎓 B.Tech CSE (AI) ’26 | AIML • iOS • UI/UX • Problem Solver</h3>
 
 ---
+<div align="center">
+ <img src="https://raw.githubusercontent.com/MrAyushBajpai/MrAyushBajpai/output/snake.svg" alt="Snake animation" />
+</div>
 
 - 🚀 Currently building: [**ReClip**](https://github.com/khatrisahil1/ReClip-A-macOS-Clipboard-History-Manager) – A lightweight clipboard manager for macOS.
-- 📱 Collaborating on: [**HealthWise**](https://github.com/khatrisahil1/HealthWise-iOS-Health-Wellness-App) – A SwiftUI-powered iOS app focused on wellness tracking.
+- 📱 Collaborate on: [**HealthWise**](https://github.com/khatrisahil1/HealthWise-iOS-Health-Wellness-App) – A SwiftUI-powered iOS app focused on wellness tracking.
 - 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
 - 🌐 Portfolio: [type.link/khatrisahil821](https://type.link/khatrisahil821)
 - 📬 Reach me at: **sahilkhatri.work@gmail.com**
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatrisahil1&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrisahil1&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
 
 ---
 
@@ -27,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -38,9 +30,7 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khatrisahil1/khatrisahil1/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 ### 🌐 Connect with Me
 
@@ -59,6 +49,16 @@
   </a>
 </div>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khatrisahil1&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrisahil1&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
+
+---
 ---
 <div align="center">
   <img src="https://profile-counter.glitch.me/khatrisahil1/count.svg?"  />
