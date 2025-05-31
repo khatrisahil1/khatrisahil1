@@ -38,6 +38,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khatrisahil1/khatrisahil1/output/snake.svg" alt="Snake animation" />
+</div>
 
 ### 🌐 Connect with Me
 
