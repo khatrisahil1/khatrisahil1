@@ -2,17 +2,15 @@
 <h3 align="center">🎓 B.Tech CSE (AI) ’26 | AIML • iOS • UI/UX • Problem Solver</h3>
 
 ---
-<div align="center">
- <img src="https://raw.githubusercontent.com/MrAyushBajpai/MrAyushBajpai/output/snake.svg" alt="Snake animation" />
-</div>
-
 - 🚀 Currently building: [**ReClip**](https://github.com/khatrisahil1/ReClip-A-macOS-Clipboard-History-Manager) – A lightweight clipboard manager for macOS.
 - 📱 Collaborate on: [**HealthWise**](https://github.com/khatrisahil1/HealthWise-iOS-Health-Wellness-App) – A SwiftUI-powered iOS app focused on wellness tracking.
 - 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
 - 🌐 Portfolio: [type.link/khatrisahil821](https://type.link/khatrisahil821)
 - 📬 Reach me at: **sahilkhatri.work@gmail.com**
-
+<div align="center">
+ <img src="https://raw.githubusercontent.com/MrAyushBajpai/MrAyushBajpai/output/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ### 🛠️ Languages & Tools
