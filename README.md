@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Khatri</h1>
-<h3 align="center">🎓 B.Tech CSE (AI) ’26 | AIML • iOS • UI/UX • AI/ML </h3>
+<h3 align="center">🎓 B.Tech CSE (AI) ’26 | AIML • iOS • UI/UX  </h3>
 
 ---
 
