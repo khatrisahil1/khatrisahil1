@@ -3,8 +3,8 @@
 
 ---
 
-- 🚀 Currently building: [**ReClip**](https://github.com/khatrisahil1/ReClip-A-macOS-Clipboard-History-Manager) – A lightweight clipboard manager for macOS.
-- 📱 Collaborate on: [**HealthWise**](https://github.com/khatrisahil1/HealthWise-iOS-Health-Wellness-App) – A SwiftUI-powered iOS app focused on wellness tracking.
+- 🚀 Just launched the: [**ReClip v1.0**](https://github.com/khatrisahil1/ReClip-A-macOS-Clipboard-History-Manager) – A lightweight clipboard manager for macOS.
+- 📱 Building: [**HealthWise**](https://github.com/khatrisahil1/ikigai) – A mindful SwiftUI-powered iOS app focused on habit & wellness tracking designed to be your lifestyle compass..
 - 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
 - 🌐 Portfolio: [type.link/khatrisahil821](https://type.link/khatrisahil821)
