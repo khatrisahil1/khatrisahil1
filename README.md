@@ -7,7 +7,7 @@
 - 📱 Building [**ikigai**](https://github.com/khatrisahil1/ikigai) – A mindful SwiftUI-powered iOS app focused on habit tracking, designed to be your lifestyle compass.
 - 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
-- 🌐 Portfolio: [type.link/khatrisahil821](https://type.link/khatrisahil821)
+- 🌐 Portfolio: [sahilkhatri.me](https://www.sahilkhatri.me/)
 - 📬 Reach me at: **sahilkhatri.work@gmail.com**
 <div align="center">
  <img src="https://raw.githubusercontent.com/MrAyushBajpai/MrAyushBajpai/output/snake.svg" alt="Snake animation" />
