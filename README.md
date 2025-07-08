@@ -4,7 +4,7 @@
 ---
 
 - 🚀 Just released [**ReClip v1.0**](https://github.com/khatrisahil1/ReClip-A-macOS-Clipboard-History-Manager) – A lightweight clipboard manager for macOS.
-- 📱 Building [**ikigai**](https://github.com/khatrisahil1/ikigai) – A mindful SwiftUI-powered iOS app focused on habit tracking, designed to be your lifestyle compass.
+- 	📊 Building [**Dunklytics**](https://github.com/khatrisahil1/Dunklytics) – A clean and intuitive Deep Learning powered Web app that provides real-time basketball analytics and player insights to help athletes level up their game.
 - 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
 - 🌐 Portfolio: [sahilkhatri.me](https://www.sahilkhatri.me/)
